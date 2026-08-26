@@ -1,0 +1,6 @@
+.DS_Store
+
+# Local scratch/generated assets from the build session.
+work/
+outputs/title-size-mockups.html
+outputs/title-size-mockups.png
