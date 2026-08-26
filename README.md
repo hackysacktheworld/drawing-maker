@@ -21,8 +21,6 @@ No build step is required.
 
 ## Publishing Notes
 
-Before making the repo public, replace any temporary icon or selection artwork with original artwork or properly licensed assets.
-
 Pixelify Sans is included under the SIL Open Font License 1.1. See `THIRD_PARTY_NOTICES.md`.
 
 ## License
